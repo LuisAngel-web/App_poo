@@ -2,3 +2,4 @@ Para el desarrollo de la aplicación se usaron las siguientes librerías:
 streamlit 
 datetime
 pandas
+html
