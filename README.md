@@ -44,38 +44,44 @@ pip install -r requirements.txt
 ### 3️⃣ Ejecutar la aplicación
 streamlit run app.py
 
+---
+
 ## 🚀 Enlaces
 
 Recurso	Enlace 
 🐙 Repositorio GitHub  https://github.com/LuisAngel-web/App_poo.git
-☁️ Aplicación en Streamlit Cloud  
+☁️ Aplicación en Streamlit Cloud  https://apppoo-luis-cordova-palomino.streamlit.app/
+
+---
 
 ## 🧠 Funcionalidades por Ejercicio
-# 📁 Ejercicio 1 – Variables y Condicionales
+### 📁 Ejercicio 1 – Variables y Condicionales
 - Evaluación de presupuesto mensual
 - Comparación entre gasto real y presupuesto
 - Mensajes de alerta según resultado
 - Botón de limpieza de datos
 
-# 📁 Ejercicio 2 – Listas y Diccionarios
+### 📁 Ejercicio 2 – Listas y Diccionarios
 - Registro de actividades financieras
 - Visualización en tabla con formato monetario
 - Cálculo de cumplimiento por actividad
 - Mensajes personalizados según tipo de actividad
 - Resumen global de métricas (totales, diferencias, porcentajes)
 
-# 📁 Ejercicio 3 – Funciones y Programación Funcional
+### 📁 Ejercicio 3 – Funciones y Programación Funcional
 - Cálculo de retorno de inversión
 - Uso de map(), lambda y apply() de Pandas
 - Eliminación dinámica de actividades
 - Sumarización de inversión y retorno total
 
-# 📁 Ejercicio 4 – Programación Orientada a Objetos
+### 📁 Ejercicio 4 – Programación Orientada a Objetos
 - Clase Actividad con atributos y métodos
 - Métodos: esta_en_presupuesto() y mostrar_info()
 - Instanciación dinámica desde formulario
 - Visualización personalizada por estado
 - Eliminación individual de objetos
+
+---
 
 ## ✍️ Autor
 Luis Ángel Córdova Palomino
