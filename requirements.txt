@@ -1,5 +1,3 @@
 # Para el desarrollo de la aplicación se usaron las siguientes librerías:
 streamlit>=1.28.0
 pandas>=2.0.0
-datetime
-html
