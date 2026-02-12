@@ -48,9 +48,9 @@ streamlit run app.py
 
 ## 🚀 Enlaces
 
-Recurso	Enlace 
-🐙 Repositorio GitHub  https://github.com/LuisAngel-web/App_poo.git
-☁️ Aplicación en Streamlit Cloud  https://apppoo-luis-cordova-palomino.streamlit.app/
+- Recurso	Enlace 
+- 🐙 Repositorio GitHub  https://github.com/LuisAngel-web/App_poo.git
+- ☁️ Aplicación en Streamlit Cloud  https://apppoo-luis-cordova-palomino.streamlit.app/
 
 ---
 
