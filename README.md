@@ -22,13 +22,14 @@ El proyecto está diseñado como parte del Módulo 1 del curso *Python Fundament
 ---
 
 ## 🧱 Estructura del Proyecto
+```bash
 📁 Proyecto-Modulo1-Fundamentos/
 │
 ├── 📄 app.py                 # Aplicación principal en Streamlit
 ├── 📄 requirements.txt       # Dependencias del proyecto
 ├── 📄 README.md              # Documentación
 └── 🖼️ DMC.png               # Logo institucional
-
+```
 ---
 
 ## ⚙️ Instrucciones de Ejecución
