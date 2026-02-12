@@ -36,7 +36,7 @@ El proyecto está diseñado como parte del Módulo 1 del curso *Python Fundament
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/LuisAngel-web/App_poo.git
+https://github.com/LuisAngel-web/App_poo.git
 ```
 ### 2️⃣ Instalar dependencias
 pip install -r requirements.txt
