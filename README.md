@@ -47,8 +47,7 @@ streamlit run app.py
 ---
 
 ## 🚀 Enlaces
-
-- Recurso	Enlace 
+Recurso	Enlace 
 - 🐙 Repositorio GitHub  https://github.com/LuisAngel-web/App_poo.git
 - ☁️ Aplicación en Streamlit Cloud  https://apppoo-luis-cordova-palomino.streamlit.app/
 
@@ -85,6 +84,6 @@ streamlit run app.py
 
 ## ✍️ Autor
 Luis Ángel Córdova Palomino
-📧 luisangelcordova52@gmail.com
-🐙 GitHub https://github.com/LuisAngel-web/App_poo.git
-📅 2026 – DMC Institute
+- 📧 luisangelcordova52@gmail.com
+- 🐙 GitHub https://github.com/LuisAngel-web/App_poo.git
+- 📅 2026 – DMC Institute
