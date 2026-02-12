@@ -46,7 +46,6 @@ streamlit run app.py
 
 ## 🚀 Enlaces
 
-Recurso	Enlace
-📘 Módulo 1 – Python Fundamentals  DMC INSTITUTE
-🐙 Repositorio GitHub  https://github.com/LuisAngel-web/App_poo.git  
+Recurso	Enlace 
+🐙 Repositorio GitHub  https://github.com/LuisAngel-web/App_poo.git  /n
 ☁️ Aplicación en Streamlit Cloud  
