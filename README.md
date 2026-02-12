@@ -1,1 +1,1 @@
-# App_poo
+# Mi aplicación
